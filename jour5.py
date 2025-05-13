@@ -10,7 +10,7 @@ import pandas as pd
 st.write("hello world !")
 
 #PRESENTATION
-st.title("My streamlit app")
+st.title("La page Web de CLEMENT Kevin")
 st.subheader("Try out the app")
 st.text("This is a simple element")
 
